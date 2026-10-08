@@ -1,0 +1,9 @@
+Welcome to my Node.js notes.
+
+I am learning Node.js through projects.
+
+Today I learned about:
+- process.env
+- fs
+- path
+- http
